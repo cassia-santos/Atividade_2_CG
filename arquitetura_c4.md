@@ -2,7 +2,7 @@
 
 ## Escopo e evidências
 
-Esta documentação cobre somente `Prototipo_2`, a aplicação desktop preparada para a atividade. O arquivo de entrada é `main.py`. O diretório `shaders/` contém os dois programas GLSL lidos na inicialização. `Predio.py`, `Porta.py`, `Solo.py` e `Corpo_celeste.py` guardam dados da cena; nenhum deles é um executável separado.
+Esta documentação cobre somente `Versao_final`, a aplicação desktop preparada para a atividade. O arquivo de entrada é `main.py`. O diretório `shaders/` contém os dois programas GLSL lidos na inicialização. `Predio.py`, `Porta.py`, `Solo.py` e `Corpo_celeste.py` guardam dados da cena; nenhum deles é um executável separado.
 
 Observações verificadas no código:
 
