@@ -1,7 +1,7 @@
 # Atividade 2 de Computação Gráfica
 
 Cena 2D interativa feita em Python, GLFW, ModernGL e NumPy. O projeto usa
-OpenGL 4.0 Core e lê os shaders GLSL da pasta `Prototipo_2/shaders`.
+OpenGL 4.0 Core e lê os shaders GLSL da pasta `Versao_final/shaders`.
 
 ## Executar
 
