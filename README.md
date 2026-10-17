@@ -6,7 +6,7 @@ OpenGL 4.0 Core e lê os shaders GLSL da pasta `Prototipo_2/shaders`.
 ## Executar
 
 Use o ambiente Python já configurado para a disciplina. Execute a partir da
-pasta `Prototipo_2`:
+pasta `Versao_final`:
 
 ```bash
 python main.py
