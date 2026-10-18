@@ -1,8 +1,5 @@
 """Cidade 2D com carro animado e iluminação local no poste.
 
-Cássia dos Santos Coelho         RA: 11202231970
-Lucas Reis de Oliveira da Silva  RA: 11202230836
-
 Execute: python main.py
 Setas para cima/baixo mudam a posição vertical do carro; D alterna dia/noite;
 C troca as cores do prédio central e do carro; L liga/desliga o poste; Esc sai.
