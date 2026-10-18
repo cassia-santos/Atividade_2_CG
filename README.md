@@ -29,9 +29,6 @@ reutilizadas com `TRIANGLES` e `TRIANGLE_FAN`. O vertex shader aplica escala e
 deslocamento. O fragment shader atenua a cena à noite e calcula a luz do poste
 pela distância até a lâmpada.
 
-Para a entrega, ainda é preciso colocar capturas de dia e de noite no relatório
-e registrar a divisão real de tarefas e o uso de IA.
-
 ## Relatório e arquitetura
 
 O [relatório no Overleaf](https://pt.overleaf.com/read/vwpshgqgddxn#ae8d76)
